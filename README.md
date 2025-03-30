@@ -6,7 +6,6 @@ This project provides a MATLAB-based simulation of NASA's STS-30 mission, which 
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
 
 ## Overview
 
@@ -17,15 +16,6 @@ STS-30 was the 29th NASA Space Shuttle mission and the fourth flight of Atlantis
 - **Aerodynamic Modeling**: Simulates the aerodynamic behavior of the Space Shuttle during different flight phases.
 - **Mass Properties Calculation**: Computes the center of gravity and mass distribution as fuel is consumed and payload is deployed.
 - **Thrust and Trajectory Analysis**: Models the thrust profiles and resulting trajectories during launch and ascent.
-
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/jeremytrane/STS-30_Simulation.git
-
-2. **Clone the Repository**:
-   Open MATLAB: Navigate to the cloned repository folder within MATLAB.
 
 <div align="center">
   <img src="output/STS-30 Atlantis flight.gif" />
