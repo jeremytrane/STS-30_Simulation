@@ -13,9 +13,10 @@ STS-30 was the 29th NASA Space Shuttle mission and the fourth flight of Atlantis
 
 ## Features
 
-- **Aerodynamic Modeling**: Simulates the aerodynamic behavior of the Space Shuttle during different flight phases.
-- **Mass Properties Calculation**: Computes the center of gravity and mass distribution as fuel is consumed and payload is deployed.
-- **Thrust and Trajectory Analysis**: Models the thrust profiles and resulting trajectories during launch and ascent.
+- **Aerodynamic Analysis**: Calculates the shuttle's angle of attack and drag forces during ascent.
+- **Propulsion Modeling**: Simulates the behavior of the Solid Rocket Boosters (SRBs) and the Shuttle's main engines, including fuel consumption and thrust variations.
+- **Trajectory Simulation**: Models the shuttle's trajectory, accounting for gravitational forces and atmospheric conditions.​
+- **Visualization**: Provides animations of the shuttle's ascent, offering visual insights into the mission dynamics.​
 
 <div align="center">
   <img src="output/STS-30 Atlantis flight.gif" />
