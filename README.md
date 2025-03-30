@@ -30,3 +30,6 @@ STS-30 was the 29th NASA Space Shuttle mission and the fourth flight of Atlantis
 2. **Clone the Repository**:
    Open MATLAB: Navigate to the cloned repository folder within MATLAB.
 
+<div align="center">
+  <img height="200" src="output/STS-30 Atlantis flight.gif" />
+</div>
