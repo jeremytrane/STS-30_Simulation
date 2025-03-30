@@ -7,9 +7,6 @@ This project provides a MATLAB-based simulation of NASA's STS-30 mission, which 
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
