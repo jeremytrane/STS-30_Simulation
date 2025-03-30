@@ -30,18 +30,3 @@ STS-30 was the 29th NASA Space Shuttle mission and the fourth flight of Atlantis
 2. **Clone the Repository**:
    Open MATLAB: Navigate to the cloned repository folder within MATLAB.
 
-## Usage
-
-1. **Initialize Parameters**:
-   Open and configure the relevant MATLAB scripts to set initial conditions and parameters.
-
-2. **Run Simulations**:
-   Execute the main simulation scripts to model the shuttle's flight dynamics.
-   
-3. **Analyze Results**:
-   Utilize MATLAB's plotting functions to visualize trajectories, forces, and other pertinent data.
-
-## License 
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
