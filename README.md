@@ -18,6 +18,28 @@ STS-30 was the 29th NASA Space Shuttle mission and the fourth flight of Atlantis
 - **Trajectory Simulation**: Models the shuttle's trajectory, accounting for gravitational forces and atmospheric conditions.​
 - **Visualization**: Provides animations of the shuttle's ascent, offering visual insights into the mission dynamics.​
 
+<details>
+  <summary>Click to expand method list</summary>
+
+  - `AOA.m`: Computes the angle of attack during ascent.  
+  - `Adams_BM.m`: Implements the Adams-Bashforth-Moulton method.  
+  - `COG_Atlantis.m`: Determines center of gravity for Atlantis.  
+  - `COG_finder_EXT.m`: Calculates center of gravity for external tank.  
+  - `EXT_mass.m`: Computes mass of the external tank.  
+  - `Fuelratedecrease.m`: Models fuel consumption rate.  
+  - `SRB_mass.m`: Calculates SRB mass properties.  
+  - `Throttle.m`: Simulates throttle settings.  
+  - `density.m`: Computes atmospheric density.  
+  - `drag.m`: Calculates drag forces.  
+  - `frk.m`: Flight dynamics calculation.  
+  - `gravity.m`: Models gravitational force.  
+  - `movie_atlantis.m`: Generates shuttle ascent animation.  
+  - `simpson_1.m`, `simpson_2.m`: Simpson's rule integrators.  
+  - `throttle_map.m`: Throttle mapping over time.  
+  - `thrust_angle.m`: Calculates thrust vector angle.  
+
+</details>
+
 <div align="center">
   <img src="output/STS-30 Atlantis flight.gif" />
 </div>
